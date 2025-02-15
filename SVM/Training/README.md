@@ -1,1 +1,1 @@
-Here you can find the code for training the SVM and testing its performance using our dataset
+This script extracts the training data, trains the SVM classifier, and plots the training data along with the decision boundary (hyperplane). Use this script to reproduce the training phase and visualize how the SVM model fits the training dataset. 
