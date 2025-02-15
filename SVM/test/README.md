@@ -1,1 +1,1 @@
-Here you can find the code for testing an unknown dataset
+This script loads the trained SVM model, applies it to unknown samples, and plots the test data along with the hyperplane. It also performs model validation by calculating performance metrics and generating relevant plots. Use this script to evaluate the model on unseen data and validate its classification performance.
